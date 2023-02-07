@@ -1,0 +1,8 @@
+,Biodata,Cognitive_Ability,Conscientiousness,Structured_Interview,Integrity_Test,Situational_Judgement_Test,Job_Performance
+Biodata,1.00,0.18,0.54,0.21,0.25,0.42,0.38
+Cognitive_Ability,0.18,1.00,0.03,0.18,0.01,0.29,0.31
+Conscientiousness,0.54,0.03,1.00,0.08,0.28,0.23,0.19
+Structured_Interview,0.21,0.18,0.08,1.00,-0.02,0.45,0.42
+Integrity_Test,0.25,0.01,0.28,-0.02,1.00,0.16,0.31
+Situational_Judgement_Test,0.42,0.29,0.23,0.45,0.16,1.00,0.26
+Job_Performance,0.38,0.31,0.19,0.42,0.31,0.26,1.00
